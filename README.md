@@ -2,15 +2,16 @@
 
 ## Project Name
 
-The name of your project.
+Squirrel diaries
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+This project will provide an interactive interface to the stories about squirrels collected during the [2018 Central Park Squirrel Census](https://www.thesquirrelcensus.com/). The application will interact with the [API provided by NYC Open Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Stories/gfqj-f768) and will present a randomly selected story upon loading. In addition, users will be able to search stories by the area of Central Park the stories were observed in.
 
 ## API and Data Sample
 
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+The application will interact with the [API provided by NYC Open Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Stories/gfqj-f768). The following is a sample of the data provided by the API.
+
 
 ## Wireframes
 
