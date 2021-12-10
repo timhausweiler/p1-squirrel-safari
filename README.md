@@ -27,8 +27,7 @@ The application will interact with the [API provided by NYC Open Data](https://d
 
 ## Wireframes
 
-Click [here](https://photos.app.goo.gl/FmghLBy3GWLmyimSA) for wireframe.
-
+![Squirrel Safari Wireframe](https://lh3.googleusercontent.com/pw/AM-JKLWeSgJJeA4Ux0nX3pPhlkjEdvyY4lw8L8OJCqCzIK6rSU5FujrNcuV2TsziEBOnwHsnBGFWz4_ff6_1uNxPIeTHZYaRs5gFcu-vRzB2195XWaAVfiUveTghhLDi0VzJQvcIQ1h93zP1wP7YVmD4cthjLA=w1078-h670-no?authuser=0 "Squirrel Safari Wireframe")
 
 ### MVP/PostMVP
 
@@ -58,7 +57,7 @@ A post-MVP might
 
 ## Priority Matrix
 
-Click [here](https://photos.app.goo.gl/XEKToGNN3T3xC4ws7) for priority matrix.
+![Squirrel Safari Priority Matrix](https://lh3.googleusercontent.com/pw/AM-JKLXh9T35LbLrbto0Vaie2YiTDJwQi4D0e-lpG-cBGt8-UmBMQwCYnZv1wy6k3lmBdfYNyTWPu1PYFi3EcpfBqUITr_M8zZsuJqorY5U1mKVu0uaDu8gjyxOuuU5RcutNdbeaisSgFQZnf1NhTD2AgAABSg=w960-h869-no?authuser=0 "Squirrel Safari Priority Matrix")
 
 ## Timeframes
 
@@ -81,13 +80,8 @@ Click [here](https://photos.app.goo.gl/XEKToGNN3T3xC4ws7) for priority matrix.
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
-
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
+Coming soon
 
 ## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.  
+
+Coming soon
