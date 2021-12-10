@@ -73,8 +73,10 @@ Click [here](https://photos.app.goo.gl/XEKToGNN3T3xC4ws7) for priority matrix.
 | Button styling | 3 | 1hrs| tbd | tbd |
 | Responsive styling | 2 | 4hrs| tbd | tbd |
 | Deployment | 2 | 2hrs| tbd | tbd |
-| Commits and Pushes | 4 | 1hrs| tbd | tbd |
+| Commits and Pushes | 4 | 1.5hrs| tbd | tbd |
 | Debugging | 3 | 3hrs| tbd | tbd |
+| Finalizing documentation | 2 | 2hrs| tbd | tbd |
+| Total |  | 35.5hrs | tbd | tbd |
 
 
 ## Code Snippet
