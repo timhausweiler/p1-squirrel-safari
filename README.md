@@ -51,7 +51,7 @@ A post-MVP might
 |Dec 10-12| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
 |Dec 13| Project Approval | Complete
 |Dec 13| Core Application Structure (HTML, CSS, etc.) | Work in progress
-|Dec 14| Initial Clickable Model  | Incomplete
+|Dec 14| Initial Clickable Model  | Work in progress
 |Dec 16| MVP | Incomplete
 |Dec 17| Presentations | Incomplete
 
