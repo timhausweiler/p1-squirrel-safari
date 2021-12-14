@@ -5,6 +5,7 @@ try {
   let randomIndex = Math.round(Math.random() * res.data.length);
   let nextStory = res.data[randomIndex];
 } catch (error) {
-
   console.log(error);
+  document.querySelector(".headline").innerHTML = "Something went wront - please try again later";
+  document.querySelector(".story").innerHTML = "";
 }
