@@ -63,11 +63,11 @@ A post-MVP might
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Site layout | 1 | 4hrs| tbd | tbd |
+| Site layout | 1 | 4hrs| 4hrs | tbd |
 | Site styling | 2 | 4hrs| tbd | tbd |
-| Familiarzing with API | 1 | 2hrs| tbd | tbd |
-| Fetch data from API | 1 | 4hrs| tbd | tbd |
-| Render fetched data - DOM manipulation | 1 | 4hrs| tbd | tbd |
+| Familiarzing with API | 1 | 2hrs| 2hrs | tbd |
+| Fetch data from API | 1 | 4hrs| 4hrs | tbd |
+| Render fetched data - DOM manipulation | 1 | 4hrs| 2hrs | tbd |
 | Button functionality | 1 | 4hrs| tbd | tbd |
 | Button styling | 3 | 1hrs| tbd | tbd |
 | Responsive styling | 2 | 4hrs| tbd | tbd |
