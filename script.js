@@ -7,6 +7,7 @@ async function replaceStory() {
     let nextStory = res.data[randomIndex]; //selecting random story
 
     let hectare = nextStory.hectare;
+    let shift = nextStory.shift;
 
 
   } catch (error) {
