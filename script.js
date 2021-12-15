@@ -1,3 +1,5 @@
+window.onload = replaceStory;
+
 async function replaceStory() {
   try {
     const url = `https://data.cityofnewyork.us/resource/gfqj-f768`;
@@ -15,7 +17,9 @@ async function replaceStory() {
     let headline = `Observed in the ${tod} of October ${day}, 2018 in hectare ${hectare} of Central Park:`
 
     document.querySelector(".headline").innerHTML = headline;
-    document.querySelector(".story").innerHTML = "";
+    document.querySelector(".story").innerHTML = note;
+
+
   } catch (error) {
     console.log(error);
     document.querySelector(".headline").innerHTML = "Something went wront - please try again later";
