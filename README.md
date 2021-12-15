@@ -74,7 +74,7 @@ A post-MVP might
 | Deployment | 2 | 2hrs| tbd | tbd |
 | Commits and Pushes | 4 | 1.5hrs| 0.5 | tbd |
 | Debugging | 3 | 3hrs| 2hrs | tbd |
-| Finalizing documentation | 2 | 2hrs| tbd | tbd |
+| Finalizing documentation | 2 | 2hrs| 0.5 | tbd |
 | Total |  | 35.5hrs | tbd | tbd |
 
 
