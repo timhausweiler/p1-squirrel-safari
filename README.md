@@ -73,7 +73,7 @@ A post-MVP might
 | Responsive styling | 2 | 4hrs| tbd | tbd |
 | Deployment | 2 | 2hrs| tbd | tbd |
 | Commits and Pushes | 4 | 1.5hrs| 0.5 | tbd |
-| Debugging | 3 | 3hrs| tbd | tbd |
+| Debugging | 3 | 3hrs| 2hrs | tbd |
 | Finalizing documentation | 2 | 2hrs| tbd | tbd |
 | Total |  | 35.5hrs | tbd | tbd |
 
