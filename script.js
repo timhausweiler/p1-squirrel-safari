@@ -8,6 +8,8 @@ async function replaceStory() {
 
     let hectare = nextStory.hectare;
     let shift = nextStory.shift;
+    let tod = (shift === 'AM') ? "morning" : "afternoon";
+    let day = nextStory.date.substring(2, 4);
 
 
   } catch (error) {
