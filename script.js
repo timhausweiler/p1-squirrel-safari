@@ -12,6 +12,7 @@ async function replaceStory() {
     let day = nextStory.date.substring(2, 4);
     let note = nextStory.note_squirrel_park_stories;
 
+    let headline = `Observed in the ${tod} of October ${day}, 2018 in hectare ${hectare} of Central Park:`
 
   } catch (error) {
     console.log(error);
