@@ -67,8 +67,8 @@ A post-MVP might
 | Site styling | 2 | 4hrs| tbd | tbd |
 | Familiarzing with API | 1 | 2hrs| 2hrs | tbd |
 | Fetch data from API | 1 | 4hrs| 4hrs | tbd |
-| Render fetched data - DOM manipulation | 1 | 4hrs| 2hrs | tbd |
-| Button functionality | 1 | 4hrs| tbd | tbd |
+| Render fetched data - DOM manipulation | 1 | 4hrs| 4hrs | tbd |
+| Button functionality | 1 | 4hrs| 4hrs | tbd |
 | Button styling | 3 | 1hrs| tbd | tbd |
 | Responsive styling | 2 | 4hrs| tbd | tbd |
 | Deployment | 2 | 2hrs| tbd | tbd |
