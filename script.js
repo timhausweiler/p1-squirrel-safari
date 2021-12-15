@@ -4,7 +4,9 @@ async function replaceStory() {
     const res = await axios.get(url);
 
     let randomIndex = Math.round(Math.random() * res.data.length);
-    let nextStory = res.data[randomIndex];
+    let nextStory = res.data[randomIndex]; //selecting random story
+
+
   } catch (error) {
     console.log(error);
     document.querySelector(".headline").innerHTML = "Something went wront - please try again later";
