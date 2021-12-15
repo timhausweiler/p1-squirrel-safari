@@ -4,7 +4,7 @@ async function replaceStory() {
     const res = await axios.get(url);
 
     let randomIndex = Math.round(Math.random() * res.data.length);
-    let nextStory = res.data[randomIndex]; //selecting random story
+    let nextStory = res.data[randomIndex];
 
     let hectare = nextStory.hectare;
     let shift = nextStory.shift;
