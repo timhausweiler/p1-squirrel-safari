@@ -10,6 +10,7 @@ async function replaceStory() {
     let shift = nextStory.shift;
     let tod = (shift === 'AM') ? "morning" : "afternoon";
     let day = nextStory.date.substring(2, 4);
+    let note = nextStory.note_squirrel_park_stories;
 
 
   } catch (error) {
