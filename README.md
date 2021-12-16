@@ -52,7 +52,7 @@ A post-MVP might
 |Dec 13| Project Approval | Complete
 |Dec 13| Core Application Structure (HTML, CSS, etc.) | Complete
 |Dec 14| Initial Clickable Model  | Complete
-|Dec 16| MVP | Work in progress
+|Dec 16| MVP | Complete
 |Dec 17| Presentations | Incomplete
 
 ## Priority Matrix
@@ -64,13 +64,13 @@ A post-MVP might
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Site layout | 1 | 4hrs| 4hrs | tbd |
-| Site styling | 2 | 4hrs| tbd | tbd |
+| Site styling | 2 | 4hrs| 4hrs | tbd |
 | Familiarzing with API | 1 | 2hrs| 2hrs | tbd |
 | Fetch data from API | 1 | 4hrs| 4hrs | tbd |
 | Render fetched data - DOM manipulation | 1 | 4hrs| 4hrs | tbd |
 | Button functionality | 1 | 4hrs| 4hrs | tbd |
-| Button styling | 3 | 1hrs| tbd | tbd |
-| Responsive styling | 2 | 4hrs| tbd | tbd |
+| Button styling | 3 | 1hrs| 1hrs | tbd |
+| Responsive styling | 2 | 4hrs| 2hrs | tbd |
 | Deployment | 2 | 2hrs| tbd | tbd |
 | Commits and Pushes | 4 | 1.5hrs| 0.5 | tbd |
 | Debugging | 3 | 3hrs| 2hrs | tbd |
