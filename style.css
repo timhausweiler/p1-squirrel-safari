@@ -56,7 +56,10 @@ button{
 }
 
 .headline{
-
+  display: flex;
+  background-color: rgb(246, 246, 246); 
+  padding: 1vw;
+  font-weight: bold;
 }
 
 .story{
