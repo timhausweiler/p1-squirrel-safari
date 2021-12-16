@@ -12,7 +12,7 @@ body{
 
 .logo{
   border-radius: 50%;
-  border: 2px solid black;
+  border: solid rgb(216, 216, 216) 6px;
   margin: 2vh 0 0 0;
 }
 
