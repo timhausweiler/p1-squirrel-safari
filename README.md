@@ -80,7 +80,7 @@ A post-MVP might
 
 ## Code Snippet
 
-Coming soon
+    let tod = (shift === 'AM') ? "morning" : "afternoon";
 
 ## Change Log
 
