@@ -16,6 +16,12 @@ body{
   margin: 2vh 0 0 0;
 }
 
+@media only screen and (max-width: 750px) {
+  .logo {
+    width: 30vw;
+  }
+}
+
 p{
   margin: 0 0 3vh 0 ;
   max-width:80vw;
