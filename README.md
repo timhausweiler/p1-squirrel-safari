@@ -72,9 +72,9 @@ A post-MVP might
 | Button styling | 3 | 1hrs| 1hrs | tbd |
 | Responsive styling | 2 | 4hrs| 2hrs | tbd |
 | Deployment | 2 | 2hrs| tbd | tbd |
-| Commits and Pushes | 4 | 1.5hrs| 0.5 | tbd |
-| Debugging | 3 | 3hrs| 2hrs | tbd |
-| Finalizing documentation | 2 | 2hrs| 0.5 | tbd |
+| Commits and Pushes | 4 | 1.5hrs| 5hrs | tbd |
+| Debugging | 3 | 3hrs| 3hrs | tbd |
+| Finalizing documentation | 2 | 2hrs| 2hrs | tbd |
 | Total |  | 35.5hrs | tbd | tbd |
 
 
