@@ -43,7 +43,8 @@ button{
 }
 
 .map{
-
+  height:100%;
+  margin: 0 1vw;
 }
 
 .story-container {
