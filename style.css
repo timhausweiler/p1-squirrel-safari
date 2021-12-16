@@ -9,7 +9,9 @@ body{
 }
 
 .logo{
-
+  border-radius: 50%;
+  border: 2px solid black;
+  margin: 2vh 0 0 0;
 }
 
 p{
