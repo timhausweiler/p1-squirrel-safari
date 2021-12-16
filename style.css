@@ -15,7 +15,9 @@ body{
 }
 
 p{
-
+  margin: 0 0 3vh 0 ;
+  max-width:80vw;
+  text-align: center;
 }
 
 button{
