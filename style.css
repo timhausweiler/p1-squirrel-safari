@@ -40,6 +40,7 @@ button{
 .map{
   height:100%;
   margin: 0 1vw;
+  border: solid rgb(216, 216, 216) 4px;
 }
 
 .story-container {
