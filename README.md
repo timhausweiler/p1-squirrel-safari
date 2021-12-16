@@ -87,4 +87,4 @@ let tod = (shift === 'AM') ? "morning" : "afternoon";
 
 ## Change Log
 
-Coming soon
+None so far.
