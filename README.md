@@ -2,7 +2,7 @@
 
 ## Project Name
 
-Squirrel Safari
+Squirrel Safari - [available here](https://timhausweiler.github.io/p1-squirrel-safari/)
 
 ## Project Description
 
